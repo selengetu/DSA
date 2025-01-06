@@ -42,6 +42,3 @@ This repository contains solutions to a wide range of problems, categorized by d
   - Easy: 
   - Medium: 
   - Hard: 
-
----
-└── README.md
