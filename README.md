@@ -15,7 +15,7 @@ This repository contains solutions to a wide range of problems, categorized by d
 ## **Key Features**
 1. **Problem Coverage**:
    - **LeetCode**: Covers a variety of problems, from easy to hard.
-   - **NeetCode**: Focused on NeetCode’s curated DSA problem lists.
+   - **NeetCode**: Focused on NeetCode’s curated DSA problem lists (Neetcode 250)
 
 2. **Languages Used**:
    - Primarily solved in **Python** for readability and efficiency.
@@ -36,9 +36,8 @@ This repository contains solutions to a wide range of problems, categorized by d
 ---
 
 ## **Progress**
-- **Total Problems Solved**: 
-- **LeetCode Streak**: 
+- **Total Problems Solved**: 36
 - Problems categorized by difficulty:
-  - Easy: 
-  - Medium: 
-  - Hard: 
+  - Easy: 34
+  - Medium: 1
+  - Hard: 1
