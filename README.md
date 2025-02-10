@@ -36,8 +36,8 @@ This repository contains solutions to a wide range of problems, categorized by d
 ---
 
 ## **Progress**
-- **Total Problems Solved**: 38
+- **Total Problems Solved**: 39
 - Problems categorized by difficulty:
-  - Easy: 36
+  - Easy: 37
   - Medium: 1
   - Hard: 1
