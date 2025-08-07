@@ -1,7 +1,7 @@
 # **DSA Repository**
 
 Welcome to my **Data Structures and Algorithms (DSA)** repository! This repository is dedicated to solving problems from platforms like **LeetCode** and **NeetCode**, with the goal of mastering DSA concepts and improving problem-solving skills.
-
+Mostly DE problems
 ---
 
 ## **About**
@@ -18,20 +18,18 @@ This repository contains solutions to a wide range of problems, categorized by d
    - **NeetCode**: Focused on NeetCode’s curated DSA problem lists (Neetcode 250)
 
 2. **Languages Used**:
-   - Primarily solved in **Python** for readability and efficiency.
-   - Optimized code where applicable.
+   - Python
 
 3. **Categories**:
    - Array
-   - String
+   - Two pointer
+   - Stack
    - Linked List
-   - Binary Tree / Binary Search Tree
+   - Tree
+   - Binary  Tree
    - Graph
-   - Dynamic Programming
-   - Backtracking
    - Heap / Priority Queue
    - Sorting and Searching
-   - Bit Manipulation
 
 ---
 
