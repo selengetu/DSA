@@ -1,10 +1,5 @@
 # **DSA Repository**
 
-Welcome to my **Data Structures and Algorithms (DSA)** repository! This repository is dedicated to solving problems from platforms like **LeetCode** and **NeetCode**, with the goal of mastering DSA concepts and improving problem-solving skills.
-Mostly DE problems
----
-
-## **About**
 This repository contains solutions to a wide range of problems, categorized by data structures and algorithms. It serves as:
 - A personal **learning log** to track my progress.
 - A **reference guide** for revisiting concepts and problem-solving strategies.
