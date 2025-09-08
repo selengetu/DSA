@@ -1,6 +1,5 @@
 # **DSA Repository**
 
-## **About**
 This repository contains solutions to a wide range of problems, categorized by data structures and algorithms. It serves as:
 - A personal **learning log** to track my progress.
 - A **reference guide** for revisiting concepts and problem-solving strategies.
